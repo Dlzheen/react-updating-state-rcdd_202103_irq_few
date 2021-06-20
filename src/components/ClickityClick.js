@@ -1,4 +1,4 @@
-/ Code ClickityClick Component Here
+// Code ClickityClick Component Here
 import React from 'react';
            class ClickityClick extends React.Component {
                               constructor() {
